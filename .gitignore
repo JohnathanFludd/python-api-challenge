@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Hide API Keys
+config.py
+
+#Extras 
+API_practice.ipynb
+random_numbers.ipynb
+
+
